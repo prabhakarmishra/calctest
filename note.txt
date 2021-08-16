@@ -1,0 +1,248 @@
+Availability of Services 
+
+COMPLIANCE
+
+LATENCY  - COST
+
+﻿
+
+Team Topologies
+
+https://teamtopologies.com/learn
+
+﻿
+
+DevOps Reports
+
+https://puppet.com/resources/report/2020-state-of-devops-report/
+
+﻿
+
+https://gcpupdatedmahesh.s3.amazonaws.com/Puppet-State-of-DevOps-Report-2020.pdf
+
+﻿
+
+﻿
+
+https://www.docker.com/
+
+﻿
+
+﻿
+
+IntelliJ IDE
+
+﻿
+
+https://www.jetbrains.com/idea/download/#section=windows
+
+﻿
+
+﻿
+
+https://cloud.google.com/sdk/docs/install
+
+﻿
+
+﻿
+
+Change Management System
+
+Summary
+
+Code reviews, Approvals, Owners
+﻿
+
+Who's making the change?
+
+Owners
+
+﻿
+
+Reason for the change?
+
+Expected features, docs, wiki
+
+﻿
+
+Expected result from the change?
+
+Should match the expected features, wiki, docs.
+
+﻿
+
+Risks involved?
+
+Worst case scenario of the change, impact.
+
+﻿
+
+Changes description
+
+Deployment pipelines, Dependencies, DB changes, DNS changes, QA etc.
+
+﻿
+
+Rollback mechanism?
+
+How to get to the previous state. Deployment rollback, DB rollback, DNS rollback, mitigation timelines.
+
+﻿
+
+Approvers
+
+Over-ride approvers, approvals on calls.
+
+﻿
+
+﻿
+
+﻿
+
+﻿
+
+﻿
+
+RCA (COE)
+
+﻿
+
+5 Whys?
+
+https://wa.aws.amazon.com/wat.concept.fivewhys.en.html
+
+﻿
+
+Structure of COE
+
+https://wa.aws.amazon.com/wat.concept.coe.en.html
+
+﻿
+
+﻿
+
+﻿
+
+12 Factor App
+
+https://12factor.net/ 
+
+﻿
+
+﻿
+
+LABS - 
+
+﻿
+
+GCS LAB
+
+https://gcpupdatedmahesh.s3.amazonaws.com/GCS.pdf
+
+﻿
+
+GCE LAB
+
+https://gcpupdatedmahesh.s3.amazonaws.com/GCE.pdf 
+
+﻿
+
+GSQL Lab
+
+https://gcpupdatedmahesh.s3.amazonaws.com/GSQL.pdf
+
+﻿
+
+﻿
+
+GKE LABS
+
+﻿
+
+Code Base
+
+git clone 
+
+https://github.com/gunjikarmahesh/gkelabs.git
+
+﻿
+
+Lab1 - Creating containers and upload image to GCR
+
+https://gcpupdatedmahesh.s3.amazonaws.com/kube/lab1.pdf
+
+﻿
+
+Lab2 - Create a 1 node cluster and deploy the GCR image to it
+
+https://gcpupdatedmahesh.s3.amazonaws.com/kube/Lab2.pdf
+
+﻿
+
+Lab3 - Rollback, make versions for your image
+
+﻿
+
+https://gcpupdatedmahesh.s3.amazonaws.com/kube/Lab3.pdf
+
+﻿
+
+﻿
+
+Terraform Labs
+
+﻿
+
+Create a VM
+
+https://gcpupdatedmahesh.s3.amazonaws.com/terraform/Lab+1_+CreateaVM.pdf
+
+﻿
+
+Use Meta Arguments and alias
+
+https://gcpupdatedmahesh.s3.amazonaws.com/terraform/Lab+2_+Alias%2CMetaarguments.pdf
+
+﻿
+
+Use variables
+
+https://gcpupdatedmahesh.s3.amazonaws.com/terraform/Lab+2_Variables%2Coutputs+.pdf
+
+﻿
+
+Use provisioners (local and remote)
+
+https://gcpupdatedmahesh.s3.amazonaws.com/terraform/Lab3_+Provisioners.pdf
+
+﻿
+
+Use workspace
+
+﻿
+
+https://gcpupdatedmahesh.s3.amazonaws.com/terraform/Lab+4_Workspace.pdf
+
+﻿
+
+VPC-CloudSQL-GKE
+
+https://gcpupdatedmahesh.s3.amazonaws.com/terraform/wpgke.zip
+
+﻿
+
+﻿
+
+DevOps Checklist
+
+https://gruntwork.io/devops-checklist
+
+﻿
+
+﻿
+
+CI-CD pipeline LABS
+
+﻿
+
+https://codelabs.developers.google.com/codelabs/cloud-builder-gke-continuous-deploy#0
